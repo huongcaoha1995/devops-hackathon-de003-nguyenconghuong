@@ -1,0 +1,12 @@
+cat << 'EOF' > .gitignore
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE configuration folders
+.vscode/
+.idea/
+EOF
